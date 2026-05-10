@@ -80,7 +80,7 @@ function App() {
               <ListTodo size={24} />
             </span>
             <div>
-              <h1 id="todo-heading">Todo List</h1>
+              <h1 id="todo-heading">PRATHA'S Todo App</h1>
               <p>{activeCount} active, {completedCount} completed</p>
             </div>
           </div>
